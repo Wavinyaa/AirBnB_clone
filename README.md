@@ -149,5 +149,5 @@ finall product should be as follows
 
 ## Authors
 
-* ** christian ng'ang'a** - Github: [themathecs](https://github.com/themathematcs) 
-* ** Ahmed Abba Musa ** - Github: [iamabaa](https://github.com/iamabaa) 
+* **mitchellewavinya@gmail.com ** - Github: [Wavinya](https://github.com/themathematcs) 
+* ** ** - Github: [TechSisAda](https://github.com/iamabaa) 
