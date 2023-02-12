@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-importing basemodel 
+Module for Amenity class
 """
 from models.base_model import BaseModel
 
