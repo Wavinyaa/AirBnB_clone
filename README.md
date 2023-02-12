@@ -109,45 +109,11 @@ center boxes
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-General
-What is HTML
-How to create an HTML page
-What is a markup language
-What is the DOM
-What is an element / tag
-What is an attribute
-How does the browser load a webpage
-What is CSS
-How to add style to an element
-What is a class
-What is a selector
-How to compute CSS Specificity Value
-What are Box properties in CSS
-Copyright - Plagiarism
-You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
-You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
-You are not allowed to publish any content of this project.
-Any form of plagiarism is strictly forbidden and will result in removal from the program.
-Requirements
-General
-Allowed editors: vi, vim, emacs
-All your files should end with a new line
-A README.md file, at the root of the folder of the project, is mandatory
-Your code should be W3C compliant and validate with W3C-Validator
-All your CSS files should be in styles folder
-All your images should be in images folder
-You are not allowed to use !important and id (#... in the CSS file)
-You are not allowed to use tags img, embed and iframe
-You are not allowed to use Javascript
-Current screenshots have been done on Chrome 56 or more.
-No cross browsers
-You have to follow all requirements but some margin/padding are missing - you should try to fit as much as you can to screenshots
-
 finall product should be as follows
 ![image](https://camo.githubusercontent.com/d21799d44f5d8839a1716dba0d9e16ebd5b4a1dd9609478e8690e6db9163cfe5/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f696e7472616e65742d70726f6a656374732d66696c65732f686f6c626572746f6e7363686f6f6c2d6869676865722d6c6576656c5f70726f6772616d6d696e672b2f3330392f68626e625f325f302e6a7067)
 ![image](https://camo.githubusercontent.com/ddf532ea65ccbe7c1a8c70b515e045bb105772422160ce128edaf0e6bb78df6d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f696e7472616e65742d70726f6a656374732d66696c65732f686f6c626572746f6e7363686f6f6c2d6869676865722d6c6576656c5f70726f6772616d6d696e672b2f3330392f68626e625f315f322e6a7067)
 
 ## Authors
 
-* **mitchellewavinya@gmail.com ** - Github: [Wavinya](https://github.com/themathematcs) 
-* ** ** - Github: [TechSisAda](https://github.com/iamabaa) 
+* **mitchellewavinya@gmail.com ** - Github: [Wavinya](https://github.com/Wavinyaa) 
+* **nnonyeluadaeze@gmail.com ** - Github: [TechSisAda](https://github.com/TechSisAda) 
